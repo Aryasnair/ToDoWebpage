@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .login-container, .main-container {
+    max-width: 400px;
+    margin: 100px auto;
+  }
+  
+  .todo-container {
+    margin-top: 20px;
+  }
+  
